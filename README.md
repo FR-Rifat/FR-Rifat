@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Rifat%20👋" alt="Banner" />
 <div align="center">
-
-# Hi, I'm Rifat 👋
-
 ### UI/UX Designer from Bangladesh
 
 *Creating clean and modern digital experiences.*
