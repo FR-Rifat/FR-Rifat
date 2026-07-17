@@ -1,93 +1,165 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Rifat&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hi,%20I'm%20Rifat%20👋&section=header&animation=scaleIn&fontAlignY=40" alt="Banner" />
+# Hi, I'm Rifat 👋
 
 ### UI/UX Designer from Bangladesh
 
 *Creating clean and modern digital experiences.*
 
-</div>
+---
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Who I Am</h3>
+<p>I'm a UI/UX Designer focused on simple, premium, and user-friendly design.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Quick Snapshot</h3>
+<ul>
+<li>🎨 UI/UX Designer</li>
+<li>🌱 Learning Front-end Development</li>
+<li>✨ Love clean interfaces</li>
+<li>📱 Focused on responsive design</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 💼 What I Do
 
-<p align="center">
-I'm a UI/UX Designer focused on simple, premium, and user-friendly design.
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p align="center">
-🎨 UI/UX Designer<br>
-🌱 Learning Front-end Development<br>
-✨ Love clean interfaces<br>
-📱 Focused on responsive design
-</p>
+<h3>UI/UX Design</h3>
+<ul>
+<li>User flows</li>
+<li>Interface design</li>
+<li>Experience planning</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Wireframing & Prototyping</h3>
+<ul>
+<li>Low-fidelity wireframes</li>
+<li>Interactive prototypes</li>
+<li>Design validation</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<h3>Design Systems & Responsive UI</h3>
+<ul>
+<li>Reusable components</li>
+<li>Consistent visual language</li>
+<li>Mobile-first layouts</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">💼 What I Do</h2>
+## 🛠️ Stack
 
-<p align="center">
-UI/UX Design<br>
-Wireframing<br>
-Prototyping<br>
-Design Systems<br>
-Responsive Web Design
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
-
-<h2 align="center">🛠️ Stack</h2>
-
-<p align="center">
-<strong>Design</strong><br><br>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br><br>
+<h3>Design</h3>
+<p>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
 </p>
 
-<p align="center">
-<strong>Development</strong><br><br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /><br><br>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /><br><br>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /><br><br>
+</td>
+<td width="50%" valign="top">
+
+<h3>Development</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
 </p>
 
----
-
-<h2 align="center">📚 Currently</h2>
-
-<p align="center">
-<strong>Working On</strong><br><br>
-UI/UX projects<br>
-Portfolio improvements
-</p>
-
-<p align="center">
-<strong>Learning</strong><br><br>
-JavaScript<br>
-React<br>
-Next.js
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+## 📚 Currently
 
-<p align="center">
-<a href="https://your-portfolio-link.com">🌐 Portfolio</a><br><br>
-<a href="https://linkedin.com/in/your-username">💼 LinkedIn</a><br><br>
-<a href="https://www.fiverr.com/your-username">🎯 Fiverr</a><br><br>
-<a href="mailto:[your-email@gmail.com](mailto:your-email@gmail.com)">✉️ Email</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Working On</h3>
+<ul>
+<li>UI/UX projects</li>
+<li>Portfolio improvements</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>Learning</h3>
+<ul>
+<li>JavaScript</li>
+<li>React</li>
+<li>Next.js</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### "Design is not just how it looks—it's how it works."
+<table>
+<tr>
+<td width="25%" align="center">
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+</td>
+<td width="25%" align="center">
+<a href="https://linkedin.com/in/your-username">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</td>
+<td width="25%" align="center">
+<a href="https://www.fiverr.com/your-username">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+</a>
+</td>
+<td width="25%" align="center">
+<a href="mailto:[your-email@gmail.com](mailto:your-email@gmail.com)">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+> "Design is not just how it looks—it's how it works."
 
 Thanks for visiting my profile! 🚀
-
-</div>
