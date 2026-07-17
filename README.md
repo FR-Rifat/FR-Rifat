@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Rifat%20👋" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Hi,%20I'm%20Rifat%20👋&section=header&animation=scaleIn&fontAlignY=40" alt="Banner" />
 <div align="center">
 ### UI/UX Designer from Bangladesh
 
