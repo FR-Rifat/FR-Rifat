@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Rifat&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Rifat&fontSize=60&fontColor=ffffff&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Rifat%20👋)" alt="Banner" />
 <div align="center">
 
 # Hi, I'm Rifat 👋
