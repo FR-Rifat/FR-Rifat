@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Rifat&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 <div align="center">
 
 # Hi, I'm Rifat 👋
@@ -74,7 +75,7 @@ I'm a UI/UX Designer focused on simple, premium, and user-friendly design.
 
 <div align="center">
 
-### "Design is not just how it looks—it's how it works."
+### "Design is not just how it looks it's how it works."
 
 Thanks for visiting my profile! 🚀
 
