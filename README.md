@@ -24,16 +24,7 @@ I'm a passionate UI/UX Designer who loves creating premium and intuitive user ex
 
 ## 💼 What I Do
 
-* UI Design
-* UX Design
-* Design Systems
-* Wireframing
-* Interactive Prototyping
-* Responsive Web Design
-* SaaS Dashboard Design
-* Landing Page Design
-* Front-end Learning
-
+* UI Design * UX Design * Design Systems * Wireframing * Interactive Prototyping * Responsive Web Design * SaaS Dashboard Design * Landing Page Design * Front-end Learning
 ---
 
 ## 🛠️ Design & Development Stack
