@@ -4,7 +4,7 @@
 
 ### UI/UX Designer from Bangladesh
 
-*Designing clean, modern, and user-friendly digital experiences.*
+*Creating clean and modern digital experiences.*
 
 </div>
 
@@ -12,31 +12,31 @@
 
 ## 🚀 About Me
 
-I'm a passionate UI/UX Designer who loves creating premium and intuitive user experiences for web and mobile products. I focus on solving real problems through thoughtful design while continuously expanding my front-end development skills.
+I'm a UI/UX Designer focused on simple, premium, and user-friendly design.
 
-* 🎨 UI/UX Designer & Freelancer
-* 🌱 Currently learning Front-end Development
-* 💡 Passionate about modern product design
-* ✨ Love building clean and premium interfaces
-* 📱 Designing responsive and scalable experiences
+* 🎨 UI/UX Designer
+* 🌱 Learning Front-end Development
+* ✨ Love clean interfaces
+* 📱 Focused on responsive design
 
 ---
 
 ## 💼 What I Do
 
-UI Design / UX Design * Interactive Prototyping * Responsive Web Design * SaaS Dashboard Design * Landing Page Design * Front-end Learning
+* UI/UX Design
+* Wireframing
+* Prototyping
+* Design Systems
+* Responsive Web Design
+
 ---
 
-## 🛠️ Design & Development Stack
+## 🛠️ Stack
 
 ### Design
 
 * Figma
 * Framer
-* Design Systems
-* Wireframing
-* Prototyping
-* User Flow Design
 
 ### Development
 
@@ -45,8 +45,6 @@ UI Design / UX Design * Interactive Prototyping * Responsive Web Design * SaaS D
 * Tailwind CSS
 * JavaScript
 * React
-* Next.js
-* WordPress
 
 ---
 
@@ -54,45 +52,20 @@ UI Design / UX Design * Interactive Prototyping * Responsive Web Design * SaaS D
 
 ### Working On
 
-* Premium UI/UX Design Projects
-* Building modern and responsive interfaces
-* Expanding my design portfolio
+* UI/UX projects
+* Portfolio improvements
 
 ### Learning
 
 * JavaScript
 * React
 * Next.js
-* Modern Front-end Development
-* UI Animation & Interaction Design
-
----
-
-## 🌟 Featured Projects
-
-| Project            | Description                                |
-| ------------------ | ------------------------------------------ |
-| Act on Climate     | Climate-focused platform UI/UX design      |
-| Imoscan            | IMEI verification SaaS platform design     |
-| Car Carrier Group  | Logistics booking platform design          |
-| Personal Portfolio | Next.js & Tailwind-based portfolio website |
-
----
-
-## 📊 GitHub Stats
-
-> Add your GitHub stats cards here.
-
-* GitHub Stats
-* Top Languages
-* Contribution Graph
-* GitHub Streak Stats
 
 ---
 
 ## 🤝 Let's Connect
 
-* Portfolio Website
+* Portfolio
 * LinkedIn
 * Fiverr
 * Email
